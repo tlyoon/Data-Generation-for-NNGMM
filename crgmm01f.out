@@ -1,0 +1,10 @@
+crgmm01f.out         (Total and individual-particle cross sections)
+input sphere-aggregate filename:    bk7s2.k             
+nbeta,nthet,nphai:     1    1    1
+Ranges of Euler angles:    0.00   0.00   0.00   0.00   0.00   0.00
+# of orientations averaged:     1
+            Cext           Cabs           Csca           Cpr        <cos(theta)>
+total   0.659520E+00   0.653140E+00   0.701712E-02   0.659498E+00   0.315229E-02
+    1   0.218695E+00   0.216182E+00   0.251428E-02   0.218689E+00   0.107875E-02
+    2   0.218832E+00   0.216146E+00   0.268815E-02   0.218826E+00   0.114652E-02
+    3   0.221993E+00   0.220812E+00   0.181470E-02   0.222620E+00   0.927018E-03

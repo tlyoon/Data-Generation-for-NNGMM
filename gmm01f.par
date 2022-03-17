@@ -1,0 +1,5 @@
+       parameter (nLp=100,np=19)    
+
+! nLp=91, np=19 worked
+! nLp=100, np=19 worked
+
